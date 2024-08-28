@@ -14,7 +14,7 @@ create or alter table vacation_spots (
   , precipitation_probability_pct float
   , aquarium_cnt int
 , zoo_cnt int
-, korean_restaurant_cnt int
+, french_restaurant_cnt int
 ) data_retention_time_in_days = 1;
 
 
